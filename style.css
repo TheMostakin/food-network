@@ -14,18 +14,19 @@ h2{
 }
 .half-width{
     text-align: justify;
-    width: 40%;
+    width: 35%;
     float: left;
     margin-left: 5%; 
     padding-left: 2%;
 
 }
 .half-width img{
-    width: 80%;
+    height: 747px;
+    width: 658px;
     padding-left: 5%; ;
 }
 section{
-    height: 640px;
+    height: 690px;
     padding-bottom: 50px;
     padding-top: 50px;
     margin-bottom: 100px;
